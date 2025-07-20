@@ -1,10 +1,10 @@
-## Grade Calculator (Python)
+# 🎓 Grade Calculator (Python)
 
 A simple command-line tool to calculate academic grades based on user-inputted scores. Ideal for students and educators who want quick feedback on performance in multiple subjects.
 
 ---
 
-## Features
+## 📦 Features
 
 - Accepts scores for multiple subjects
 - Input validation for both subject count and score range
@@ -12,11 +12,9 @@ A simple command-line tool to calculate academic grades based on user-inputted s
 - Displays personalized feedback
 - Handles invalid inputs gracefully
 
-
 ---
 
-
-## Grade Scale
+## 📊 Grade Scale
 
 | Score Range | Grade |
 |-------------|-------|
@@ -31,7 +29,7 @@ A simple command-line tool to calculate academic grades based on user-inputted s
 
 ---
 
-## How to Use
+## 🚀 How to Use
 
 1. Make sure you have Python installed (version 3.x recommended).
 2. Run the script from the terminal:
